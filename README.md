@@ -1,5 +1,5 @@
 # Project Title
-I want to try to create a simple calculator with the interface for my practice
+I want to create a simple calculator with the interface for my practice
 
 ---
 
