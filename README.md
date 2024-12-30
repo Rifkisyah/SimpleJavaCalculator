@@ -4,10 +4,7 @@ I want to create a simple calculator with the interface for my practice
 ---
 
 ## Version 0.1
-
----
-
-## Features
+### Features
 1. basic calculation operation
 2. there is a simple GUI
 
