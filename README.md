@@ -1,5 +1,9 @@
-# Project Title
+# Target
 I want to create a simple calculator with the interface for my practice
+
+---
+
+## Version 0.1
 
 ---
 
